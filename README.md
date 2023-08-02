@@ -1,5 +1,5 @@
 # RasoanaivoCirania.github.io
 
-##Projet collaboratif
+## Projet collaboratif
 
 ajouter un fichier ".gitignore"
