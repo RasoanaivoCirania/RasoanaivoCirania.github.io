@@ -9,3 +9,10 @@ h1 {
     text-shadow: 14px 15px 13px black;
     color: aliceblue;
 }
+
+h2 {
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: 14px 15px 13px black;
+    color: aliceblue;
+}
